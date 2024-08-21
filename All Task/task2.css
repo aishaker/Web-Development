@@ -15,7 +15,6 @@ form{
 }
 ul{
     width: 800px;
-    
     margin-left: 150px;
     display: flex;
     list-style: none;
@@ -88,4 +87,7 @@ button{
     border-radius: 10px;
     margin-left: 450px;
     margin-top: 10px;
+}
+button:hover{
+    background-color: rgb(85, 176, 103);
 }
