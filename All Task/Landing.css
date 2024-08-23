@@ -1,0 +1,120 @@
+body{
+    background-color: rgb(169, 169, 164);
+    
+}
+
+header{
+    width: 1100px;
+    background-color: #fff;
+    margin-left: 80px;
+    margin-top: 70px;
+    display: flex;
+}
+.logo{
+    margin-left: 100px;
+    margin-top: 13px;
+}
+#log{
+    width: 100px;
+    height: 30px;
+}
+nav{
+    display: flex;
+}
+.menue{
+    margin-left: 300px;
+    list-style: none;
+    display: flex;
+}
+li{
+    margin-left: 20px;
+}
+a{
+    text-decoration: none;
+    color: #2D2F30;
+    cursor: pointer;
+}
+.search{
+    margin-left: 80px;
+    margin-top: 17px;
+    cursor: pointer;
+}
+.first{
+    background-color: #F9F8F9;
+    width: 1100px;
+    height: 500px;
+    margin-left: 80px;
+    display: flex;
+}
+.write{
+    display: inline-block;
+    width: 600px;
+    height: 400px;
+    margin-top: 80px;
+    margin-left: 30px;
+}
+.pic{
+    width: 500px;
+    height: 500px;
+}
+.writeh1{
+    font-size: 60px;
+    margin-top: 0px;
+    margin-left: 30px;
+    color: #094B72;
+}
+.writep{
+    margin-left: 30px;
+    margin-top: -30px;
+    font-size: 18px;
+}
+.btn1{
+    width: 120px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: #094B72;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 700;
+    font-family: monospace;
+    margin-left: 30px;
+}
+.btn1:hover{
+    background-color: #47a0d3;
+}
+.wtitep1{
+    font-size: 15px;
+    font-family: serif;
+    color: #8B8C8C;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+#fpic{
+    width: 84px;
+    height: 24px;
+    margin-left: 30px;
+}
+#spic{
+    width: 84px;
+    height: 24px;
+    display: inline-block;
+    margin-left: 30px;
+    margin-top: 0px;
+}
+.hero{
+    width: 350px;
+    height: 550px;
+    display: inline-block;
+    margin-top: -50px;
+    margin-left: -50px;
+}
+/* .second{
+    width: 1100px;
+    height: 500px;
+    background-color: aqua;
+    margin-left: 80px;
+}
+.why{
+    width: 400px;
+    height: 400px;
+} */

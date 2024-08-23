@@ -18,19 +18,12 @@ header{
     display: flex;
 }
 #log{
-    width: 20px;
-    height: 20px;
+    width: 100px;
+    height: 30px;
     margin-left: 100px;
     padding-top: 10px;
 }
-#law{
-    margin-left: 125px;
-    margin-top: -24px;
-    font-size: 17px;
-    font-weight: 700;
-    color: #2D2F30;
-    font-family:monospace;
-}
+
 .nav{
     text-align: right;
     width: 350px;
